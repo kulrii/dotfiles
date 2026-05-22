@@ -60,13 +60,10 @@
   },
   "enabledPlugins": {
     "code-review@claude-plugins-official": true,
-    "feature-dev@claude-plugins-official": true,
-    "code-simplifier@claude-plugins-official": true,
-    "superpowers@claude-plugins-official": true,
     "commit-commands@claude-plugins-official": true,
-    "pr-review-toolkit@claude-plugins-official": true,
     "notifications@cc-marketplace": true,
-    "skills-toolkit@cc-marketplace": true
+    "skills-toolkit@cc-marketplace": true,
+    "frontend-design@claude-plugins-official": true
   },
   "extraKnownMarketplaces": {
     "cc-marketplace": {
@@ -76,6 +73,6 @@
       }
     }
   },
-  "skipDangerousModePermissionPrompt": true,
+  "tui": "fullscreen",
   "skipAutoPermissionPrompt": true
 }

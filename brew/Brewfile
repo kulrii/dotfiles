@@ -3,6 +3,7 @@ brew "cabal-install" # Haskell package manager
 brew "ffmpeg" # convert video formats, frames to video, record, and stream
 brew "gh" # GitHub CLI
 brew "ghc" # Haskell compiler
+brew "git-lfs" # Git extension for versioning large files
 brew "git"
 brew "go"
 brew "golangci-lint" # linter for Go

@@ -14,8 +14,6 @@ code --install-extension dsznajder.es7-react-js-snippets # React Snippets
 code --install-extension eamodio.gitlens # GitLens
 code --install-extension esbenp.prettier-vscode # Prettier
 code --install-extension foxundermoon.shell-format # Shell-Format
-code --install-extension GitHub.copilot # GitHub Copilot
-code --install-extension GitHub.copilot-chat # GitHub Copilot Chat
 code --install-extension golang.go # Go
 code --install-extension haskell.haskell # Haskell
 code --install-extension james-yu.latex-workshop # LaTeX Workshop
