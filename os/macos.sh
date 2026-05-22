@@ -140,9 +140,6 @@ for app in \
   "/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari" \
   "/Applications/Google Chrome" \
   "/Applications/LINE" \
-  "/Applications/WhatsApp" \
-  "/Applications/Slack" \
-  "/Applications/Microsoft Teams" \
   "/System/Applications/FaceTime" \
   "/Applications/Claude" \
   "/Applications/iTerm" \
